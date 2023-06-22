@@ -1,8 +1,8 @@
 Contributing
 ============
 
-Welcome to the **IBL** project. The main `project
-repository <https://github.com/ddmarshall/IBL>`__ is located on GitHub.
+Welcome to the **comp-flow** project. The main `project
+repository <https://github.com/ddmarshall/comp-flow>`__ is located on GitHub.
 If you are interested in contributing, let `us
 know <mailto:ddmarshall@gmail.com>`__ what you would like to do.
 
@@ -67,7 +67,7 @@ Submitting Changes
 
 Before making contributions to this project, please discuss your plans
 with the maintainers. This is best done with an
-`issue <https://github.com/ddmarshall/IBL/issues>`__ on the project
+`issue <https://github.com/ddmarshall/comp-flow/issues>`__ on the project
 repository or `email <mailto:ddmarshall@gmail.com>`__ to the
 maintainers.
 
@@ -75,7 +75,7 @@ Bug Reports
 -----------
 
 Bug reports can be submitted via the
-`issue <https://github.com/ddmarshall/IBL/issues>`__ tracker. Please
+`issue <https://github.com/ddmarshall/comp-flow/issues>`__ tracker. Please
 provide as much information as possible to reproduce the error. A
 minimal working example will make it easier to track down the problem.
 
