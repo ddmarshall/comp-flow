@@ -18,7 +18,7 @@ The main contributors to this project are:
 Version History
 ---------------
 
-* 0.1.0 - Initial release with basic project framework
+* 0.1.0-dev - Initial release with basic project framework
 
 License
 -------

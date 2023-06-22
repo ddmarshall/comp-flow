@@ -15,7 +15,7 @@ Note that the version number is `X.Y.Z` where `X` is the major number, `Y` is th
 - [ ] Create release in Git-Flow with name `X.Y.Z`
     - [ ] Update version numbers in
         - [ ] `README.rst`
-        - [ ] `setup.py`
+        - [ ] `project.toml`
         - [ ] `sphinx/source/conf.py`
     - [ ] Run checks that all version interfaces are correct
     - [ ] Build documentation and put it in place for github with `make github`
@@ -25,9 +25,9 @@ Note that the version number is `X.Y.Z` where `X` is the major number, `Y` is th
 After a release has been created these steps need to be taken.
 
 - [ ] Start a new feature called `Start_Development` in Git-Flow
-    - [ ] Increment the minor number by 1, set patch number to 0, and append `-develop`
+    - [ ] Increment the minor number by 1, set patch number to 0, and append `-dev`
         - [ ] `README.rst`
-        - [ ] `setup.py`
+        - [ ] `project.toml`
         - [ ] `sphinx/source/conf.py`
     - [ ] Run checks that all version interfaces are correct
     - [ ] Finish the feature in Git-Flow
